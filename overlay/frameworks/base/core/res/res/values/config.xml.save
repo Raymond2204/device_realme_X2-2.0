@@ -682,6 +682,7 @@
      <!-- How long it takes for the HW to start illuminating after the illumination is requested. -->
      <integer name="config_udfps_illumination_transition_ms">0</integer>
 
+     
      <!-- Flag indicating whether the surface flinger is inefficient
          at performing a blur.  Used by parts of the UI to turn off
          the blur effect where it isn't worth the performance hit.
@@ -690,5 +691,6 @@
 
      <!-- Whether to cancel fingerprint operation if not idle -->
     <bool name="config_fpCancelIfNotIdle">true</bool>
+>>>>>>> 076407b (X2:overlay: Cancel fingerprint operation if not idle)
 </resources>
 
