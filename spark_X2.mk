@@ -32,9 +32,6 @@ TARGET_FACE_UNLOCK_SUPPORTED := true
 EXTRA_UDFPS_ANIMATIONS := true
 TARGET_HAS_UDFPS := true
 
-# Gapps
-WITH_GAPPS := true
-
 # Blurs
 TARGET_SUPPORTS_BLUR := true
 
@@ -42,4 +39,3 @@ TARGET_SUPPORTS_BLUR := true
 BUILD_FINGERPRINT := "google/raven/raven:12/SQ3A.220605.009.B1/8650216:user/release-keys"
 
 PRODUCT_GMS_CLIENTID_BASE := android-oppo
-
